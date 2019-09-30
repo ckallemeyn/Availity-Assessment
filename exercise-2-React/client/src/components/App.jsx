@@ -44,9 +44,11 @@ export default class App extends Component {
       });
       return;
     }
+
     if (currentPage === 'confirmation') {
       return;
     }
+    
     let NPILength = NPI.toString().length;
     (NPILength === 10 && zipcode.length >=5 && zipcode.length <= 10)
       ? this.setState({
