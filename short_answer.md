@@ -7,7 +7,7 @@
 ### Prompt 2
   - Tell me a about a book, blog, article or GitHub repo you read or liked recently, and why you like it and why you should recommend I do the same. 
    
-   A Man’s Search for Meaning by Viktor Frankl is by far one of the most influential reads that I've read lately. I personally do not re-read books often, and if I do I will only read portions of books. However, This novel is life changing and I have re-read it 3 times now. It redefined the term "success" for me, and gave me a new perspective on living when faced with adversity. Without a shred of doubt this book will give you invaluable perspectives told from a prisoner in a Nazi conc
+   A Man’s Search for Meaning by Viktor Frankl is by far one of the most influential reads that I've read lately. I personally do not re-read books often, and if I do I will only read portions of books. However, this novel is life changing and I have re-read it 3 times now. It redefined the term "success" for me, and gave me a new perspective on living when faced with adversity. Without a shred of doubt this book will give you invaluable perspectives told from a prisoner in a Nazi conc
 concentration camp. I often go back to this quote for motivation against adversity, "In accepting this challenge to suffer bravely, life has a meaning up to the last moment, and it retains this meaning literally to the end."
 
    
