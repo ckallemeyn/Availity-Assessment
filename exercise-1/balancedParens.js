@@ -41,7 +41,7 @@ const balancedParens = (input) => {
     }
       // if the character is a closing bracket then pop the opening bracket from the stack
     if (closedBracketsArr.indexOf(char) > -1) {
-      matchingBracket = openBracketsArr;[closedBracketsArr.indexOf(char)];
+      matchingBracket = openBracketsArr[closedBracketsArr.indexOf(char)];
       //  if the two brackets match then continue otherwise return false
       if (stack.length === 0 || (stack.pop() !== matchingBracket)) {
         return false;

@@ -36,7 +36,6 @@ export default class App extends Component {
   }
 
   validateData() {
-    debugger;
     let { NPI, email, zipcode, currentPage } = this.state;
     //edge case
     if (NPI === null || email === '' || zipcode === null) {
